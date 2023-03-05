@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "name": "reactdevloper",
+      "email": "react@gmail.comr",
+      "id": 2
+    },
+    {
+      "name": "tarun",
+      "email": "tarun@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ramradhey",
+      "email": "ramradhey@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "boby",
+      "email": "123@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "ram",
+      "email": "r@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "rahul",
+      "email": "boy@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "bhanu",
+      "email": "bhanu@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "b",
+      "email": "b@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "jatin ",
+      "email": "panda@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "boby",
+      "email": "ra@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "raju",
+      "email": "Chaudhary@gmail.com",
+      "id": 18
+    }
+  ]
+}
