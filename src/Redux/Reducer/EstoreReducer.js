@@ -9,6 +9,7 @@ const EstoreReducer=(state=initialstate,action)=>{
     switch(action.type){
         case Store_details:
             return{
+                
                 store:action.payload.data,
                 isLoading:action.payload.isLoading      
             }
